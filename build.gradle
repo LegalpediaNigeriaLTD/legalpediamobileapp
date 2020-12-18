@@ -34,7 +34,7 @@ android {
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.legalpedia.mobile"
-        minSdkVersion 30
+        minSdkVersion 16
         targetSdkVersion 30
         https://resources.legalpediaresources.com flutterhttps://resources.legalpediaresources.com.toInteger()
         versionName flutterVersionName
